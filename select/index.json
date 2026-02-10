@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "水星",
+  "base_artist": "くじら",
+  "createdAt": "2026-02-10T06:46:15.917425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水星",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_水星_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suisei [水星]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_Suisei_[水星]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水星",
+      "artist": "MARY",
+      "has_synced": true,
+      "path": "select/03_水星_MARY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "水星",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/04_水星_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "水星(Young & Fresh mix) feat. 仮谷せいら",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/05_水星(Young_&_Fresh_mix)_feat._仮谷せいら_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "水星 - Mercury",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/06_水星_-_Mercury_Orangestar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "水星 - Suisei (feat. Onomatope Daijin)",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/07_水星_-_Suisei_(feat._Onomatope_Daijin)_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "水星",
+      "artist": "めありー",
+      "has_synced": true,
+      "path": "select/08_水星_めありー.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "水星",
+      "artist": "whaledontsleep",
+      "has_synced": true,
+      "path": "select/09_水星_whaledontsleep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "水星",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": true,
+      "path": "select/10_水星_ラブリーサマーちゃん.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "水星 (feat. オノマトペ大臣)",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/11_水星_(feat._オノマトペ大臣)_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "水星",
+      "artist": "Lovely Summer Chan",
+      "has_synced": true,
+      "path": "select/12_水星_Lovely_Summer_Chan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "水星 (feat. 仮谷せいら) - Young & Fresh mix",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/13_水星_(feat._仮谷せいら)_-_Young_&_Fresh_mix_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "水星 - GIRL MEETS BOY in Kobecity",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/14_水星_-_GIRL_MEETS_BOY_in_Kobecity_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "水星(Original mix) feat. オノマトペ大臣",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/15_水星(Original_mix)_feat._オノマトペ大臣_tofubeats.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "水星 - BOY MEETS GIRL in Kobecity",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/16_水星_-_BOY_MEETS_GIRL_in_Kobecity_tofubeats.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水星",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_水星_くじら.txt"
+    }
+  ]
+}
